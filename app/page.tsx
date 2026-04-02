@@ -62,6 +62,16 @@ export default function Home() {
               Update statuses, track sent messages, and keep the pipeline moving.
             </p>
           </div>
+
+          <div className="rounded-2xl border border-emerald-400/20 bg-emerald-500/10 p-5 sm:col-span-2 lg:col-span-4">
+            <p className="text-sm font-medium text-emerald-300">
+              Dashboard build in progress
+            </p>
+            <p className="mt-2 text-sm leading-6 text-neutral-300">
+              This deployment includes the latest dashboard shell and is being
+              prepared for live lead management.
+            </p>
+          </div>
         </div>
       </div>
     </main>
